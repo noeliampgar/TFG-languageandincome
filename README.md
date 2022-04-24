@@ -21,6 +21,7 @@ Associated with adddirs.ipynb. <br />
 
 
  <br />
+ 
 *3rd step: Income search and addition*
 
 -Raw income search and addition
