@@ -37,6 +37,7 @@ Associated with ElPaisWidgetV4.ipynb. and rawrenta_to_renta.ipynb. <br />
 This step is not associated with any notebooks because it was developed manually in a spreadsheet. <br />
 
  <br />
+ 
 *5th step: Download of tweets written by selected users*
 
 This step is not associated with any notebooks because it did not involve any Python coding. <br />
