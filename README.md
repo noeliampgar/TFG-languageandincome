@@ -32,11 +32,11 @@ Associated with ElPaisWidgetV4.ipynb. and rawrenta_to_renta.ipynb.
 
 
 4th step: Users selection
-
+This step is not associated with any notebooks because it was developed manually in a spreadsheet.
 
 
 5th step: Download of tweets written by selected users
-
+This step is not associated with any notebooks because it did not involve any Python coding.
 
 
 6th step: Language analysis, machine learning and search of common patterns
