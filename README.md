@@ -1,4 +1,4 @@
-This project aims to prove if there are any variations between language used by people having different incomes.
+This project aims to study if there are any variations between language used by people having different incomes.
 The steps followed and their correponding code is described here below: 
 
 
