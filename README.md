@@ -45,4 +45,4 @@ This step is not associated with any notebooks because it did not involve any Py
 
 *6th step: Language analysis, machine learning and search of common patterns*
 
-Associated with generaFeatures_v10.ipynb, es.dic, datoscompletos.ipynb and ml_v2.ipynb.
+Associated with generaFeatures_v10.ipynb, es.dic, datoscompletos.ipynb, estad-tweet_v2.ipynb and ml_v2.ipynb.
